@@ -1,4 +1,5 @@
 <h1>Bikcraft Responsive Landing Page</h1>
+
 [Descrição](#descrição) | 
 [Funcionalidades](#funcionalidades) |
 [Screenshot ou Gif](#screenshots-ou-gif) |
